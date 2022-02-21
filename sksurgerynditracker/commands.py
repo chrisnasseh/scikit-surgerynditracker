@@ -7,7 +7,7 @@ from sksurgerynditracker.nditracker import NDITracker
 def process():
     settings_vega = {
         "tracker type": "vega",
-        "ip address" : "192.168.2.17",
+        "ip address" : "169.254.59.33",
         "port" : 8765,
         "romfiles" : [
             "../data/8700340.rom",
